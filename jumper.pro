@@ -12,9 +12,4 @@ TARGET = jumper
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        jumpermainwindow.cpp
-
-HEADERS  += jumpermainwindow.h
-
-FORMS    += jumpermainwindow.ui
+SOURCES += main.cpp
