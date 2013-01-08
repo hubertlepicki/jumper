@@ -26,6 +26,7 @@ Get the sources with:
 
 Compile the sources:
 
+    $ cd jumper
     $ qmake && make
 
 You run the program with:
