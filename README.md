@@ -11,7 +11,7 @@ I use dual monitor set up, but no tiling window manager (yet, I guess).
 I don't use mouse, just keyboard with touchpad (Logitech K400 to be
 precise). Dragging cursor around from one monitor to another is a
 nightmare for me, especially in Ubuntu with it's sticky dock. These few
-lines of C++ code fixes the issue for me :).
+lines of C++ code fix the issue for me :).
 
 Usage
 -----
