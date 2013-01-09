@@ -37,6 +37,18 @@ for example:
 
     $ ./jumper 100 200
 
+You can do relative movements, such as moving cursor along x-axis:
+
+    $ ./jumper +100 +0
+    $ ./jumper -100 +0
+
+or mix both: move cursor relatively along x-axis and jump to the left of
+the screen with:
+
+    $ ./jumper 0 +100
+
+etc.
+
 Pro tip: copy over binary somewhere to your $PATH and configure
 shortcuts to jump from centre of your left monitor to the centre of your
 right monitor.
