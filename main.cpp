@@ -1,8 +1,6 @@
 #include <QApplication>
-#include <QDebug>
 
 int move(int pos, QString command) {
-  qDebug() << command;
   if (command != QString("")) {
     if (command[0] == '+' || command[0] == '-')
       pos += command.toInt();
